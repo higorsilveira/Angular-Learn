@@ -21,7 +21,7 @@ export class NovaTransferenciaComponent {
     this.aoTransferir.emit(VALOR_EMITIR);
     this.limparCampos();
 
-  }
+    }
 
   limparCampos(){
 
